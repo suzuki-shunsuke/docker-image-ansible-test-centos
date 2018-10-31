@@ -15,6 +15,10 @@ Use this image as a managed node.
 * edit sudoers
 * create user `foo`
 
+## Example
+
+https://github.com/suzuki-shunsuke/example/tree/master/ansible/test-on-docker
+
 ## Tips
 
 If you want to use systemd, you may have to run docker container with the `--privileged` option.
